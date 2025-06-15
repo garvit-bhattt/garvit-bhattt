@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/garvit-bhattt/garvit-bhattt/main/assets/wave-top.svg" alt="wave" style="width: 100%; height: 60px;"/>
 # Hi there, I'm Garvit 👋
 
 ## 👨‍💻 About Me
@@ -20,7 +21,6 @@
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/garvit-bhatt-linked/)
-![Visitor Badge](https://visitcount.itsvg.in/api?id=garvit-bhattt&label=Profile%20Views&color=6&icon=5&pretty=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=garvit-bhattt&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -20,7 +20,8 @@
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/garvit-bhatt-linked/)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=garvit-bhattt&theme=github-compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=garvit-bhattt&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!--

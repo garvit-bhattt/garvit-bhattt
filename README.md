@@ -25,6 +25,8 @@
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=garvit-bhattt&show_icons=true&theme=radical)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![GitHub Calendar](https://github.com/garvit-bhattt/garvit-bhattt/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/garvit-bhatt-linked/)

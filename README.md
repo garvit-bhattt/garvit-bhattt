@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning React, Node.js, and Three.js
+- 🌱 I’m currently learning React, Node.js
 - 💬 Ask me about frontend development
-- 📫 How to reach me: garvitbhatt@example.com
+- 📫 How to reach me: garvitbhattpc@gmail.com
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -18,7 +18,9 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=garvit-bhattt&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/garvit-bhatt-linked/)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=garvit-bhattt&theme=github-compact)
 
 
 <!--

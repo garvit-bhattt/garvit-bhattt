@@ -1,5 +1,8 @@
-<img src="https://raw.githubusercontent.com/garvit-bhattt/garvit-bhattt/main/assets/wave-top.svg" alt="wave" style="width: 100%; height: 60px;"/>
 # Hi there, I'm Garvit 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" width="100%" />
+</p>
+
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on Full Stack Development

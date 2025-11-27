@@ -39,6 +39,9 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-bhattt&layout=compact&theme=radical" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/garvit-bhattt/garvit-bhattt/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
+</p>
 
 ---
 

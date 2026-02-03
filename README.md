@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  🔭Aspiring Full Stack Dev | 🌱 Learning React & Node.js | 💬 Frontend Fan  
+  🔭Aspiring Full Stack Dev | 🌱 Learning React & Node.js |
   <br>
   📫 <strong>garvitbhattpc@gmail.com</strong>
 </p>
